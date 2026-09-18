@@ -1,7 +1,5 @@
 # Oii! Eu sou a Gabriela Colombo 💕
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Colombogaby&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" width="400" />
-
 🎓 **Estudante de Engenharia de Software** na UNICID (Conclusão em 2029)  
 💻 **Estagiária Fullstack** na Goat Digital  
 📍 **São Paulo, Brasil**
@@ -18,13 +16,15 @@
 
 ---
 
-### 👾 Pac-Man Contribution
+### 👾 Pac-Man
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Colombogaby/Colombogaby/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Colombogaby/Colombogaby/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Colombogaby/Colombogaby/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/ClaudioDantas/ClaudioDantas/master/pacman.gif" width="100%" alt="Pacman" />
+
+---
+
+### 📊 Estatísticas
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Colombogaby&show_icons=true&theme=tokyonight&locale=pt-br)
 
 ---
 
