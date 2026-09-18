@@ -16,18 +16,6 @@
 
 ---
 
-### 👾 Pac-Man
-
-<img src="https://raw.githubusercontent.com/ClaudioDantas/ClaudioDantas/master/pacman.gif" width="100%" alt="Pacman" />
-
----
-
-### 📊 Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Colombogaby&show_icons=true&theme=tokyonight&locale=pt-br)
-
----
-
 ### 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-colombo-9b2916305)
