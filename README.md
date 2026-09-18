@@ -26,4 +26,6 @@
 
 ### 👾 Pac-Man
 
-![Pacman GIF](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://media.giphy.com/media/pfXNIIOWEA14k/giphy.gif" width="300" alt="Pacman Arcade" />
+</p>
