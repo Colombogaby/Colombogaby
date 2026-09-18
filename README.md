@@ -26,4 +26,4 @@
 
 ### 👾 Pac-Man
 
-![Pacman Arcade](https://i.ibb.co/3k5fT14/pacman.gif)
+![Pacman](https://github.com/mdehaan4/mdehaan4/raw/master/assets/pacman.gif)
