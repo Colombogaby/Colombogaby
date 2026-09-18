@@ -26,6 +26,8 @@
 
 ### 👾 Pac-Man
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/5/59/Pac-man.png" width="280" alt="Pac-Man Arcade Map" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Colombogaby/Colombogaby/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Colombogaby/Colombogaby/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Colombogaby/Colombogaby/output/pacman-contribution-graph.svg">
+</picture>
