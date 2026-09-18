@@ -26,6 +26,4 @@
 
 ### 👾 Pac-Man
 
-<p align="center">
-  <img src="https://media.giphy.com/media/pfXNIIOWEA14k/giphy.gif" width="300" alt="Pacman Arcade" />
-</p>
+![Pacman Arcade](https://i.ibb.co/3k5fT14/pacman.gif)
