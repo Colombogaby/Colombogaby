@@ -26,4 +26,6 @@
 
 ### 👾 Pac-Man
 
-<img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c31b.png" width="80" alt="Pac-Man" />
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/59/Pac-man.png" width="280" alt="Pac-Man Arcade Map" />
+</p>
