@@ -21,3 +21,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-colombo-9b2916305)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/colombogaby_/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabi.colombo030506@gmail.com)
+
+---
+
+### 👾 Pac-Man
+
+<img src="https://media.giphy.com/media/d9cZQ94B69b05m87B9/giphy.gif" width="100%" height="100px" alt="Pacman animation" />
