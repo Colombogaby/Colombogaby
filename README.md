@@ -26,4 +26,6 @@
 
 ### 👾 Pac-Man
 
-![Pacman](https://github.com/mdehaan4/mdehaan4/raw/master/assets/pacman.gif)
+<p align="center">
+  <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c31b.png" width="120" alt="Pac-Man" />
+</p>
