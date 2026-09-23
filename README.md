@@ -15,7 +15,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ---
 
-### 👾 Space Invaders Arcade
+### 👾 Space Invaders 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Colombogaby/Colombogaby/output/commit-invaders-dark.svg">
