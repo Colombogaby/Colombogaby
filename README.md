@@ -15,14 +15,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ---
 
-### 👾 Pac-Man
+### 🚀 Galaga Arcade
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Colombogaby/Colombogaby/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Colombogaby/Colombogaby/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Colombogaby/Colombogaby/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Colombogaby/Colombogaby/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Colombogaby/Colombogaby/output/galaga-contribution-graph.svg">
+  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/Colombogaby/Colombogaby/output/galaga-contribution-graph.svg">
 </picture>
-
 ---
 
 ### 🌐 Onde me encontrar
