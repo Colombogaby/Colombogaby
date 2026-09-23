@@ -15,12 +15,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ---
 
-### 👾 Space Invaders 
+### 👾 Space Invaders
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Colombogaby/Colombogaby/output/commit-invaders-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Colombogaby/Colombogaby/output/commit-invaders.svg">
-  <img alt="Commit Invaders" src="https://raw.githubusercontent.com/Colombogaby/Colombogaby/output/commit-invaders.svg" width="100%">
+  <img
+    alt="Git Invader"
+    src="https://raw.githubusercontent.com/Colombogaby/Colombogaby/output/git-invader-multi-dark.svg"
+    width="100%"
+  >
 </picture>
 
 ### 🌐 Onde me encontrar
