@@ -15,14 +15,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ---
 
-### 👾 Space Invaders
+### 👾 Pac-Man
 
 <picture>
-  <img
-    alt="Git Invader"
-    src="https://raw.githubusercontent.com/Colombogaby/Colombogaby/output/git-invader-multi-dark.svg"
-    width="100%"
-  >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Colombogaby/Colombogaby/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Colombogaby/Colombogaby/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Colombogaby/Colombogaby/output/pacman-contribution-graph.svg">
 </picture>
 
 ### 🌐 Onde me encontrar
